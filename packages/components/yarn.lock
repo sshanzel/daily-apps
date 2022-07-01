@@ -17183,9 +17183,9 @@ vue-jest@^3.0.4:
     vue-template-es2015-compiler "^1.6.0"
 
 vue-loader@^15.7.0:
-  version "15.9.7"
-  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.9.7.tgz#15b05775c3e0c38407679393c2ce6df673b01044"
-  integrity sha512-qzlsbLV1HKEMf19IqCJqdNvFJRCI58WNbS6XbPqK13MrLz65es75w392MSQ5TsARAfIjUw+ATm3vlCXUJSOH9Q==
+  version "15.10.0"
+  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.10.0.tgz#2a12695c421a2a2cc2138f05a949d04ed086e38b"
+  integrity sha512-VU6tuO8eKajrFeBzMssFUP9SvakEeeSi1BxdTH5o3+1yUyrldp8IERkSdXlMI2t4kxF2sqYUDsQY+WJBxzBmZg==
   dependencies:
     "@vue/component-compiler-utils" "^3.1.0"
     hash-sum "^1.0.2"
